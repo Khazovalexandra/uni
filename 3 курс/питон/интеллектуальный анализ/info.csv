@@ -1,0 +1,351 @@
+,Age,Gender,Country,state,self_employed,family_history,treatment,work_interfere,no_employees,remote_work,tech_company,benefits,care_options,wellness_program,seek_help,anonymity,leave,mental_health_consequence,phys_health_consequence,coworkers,supervisor,mental_health_interview,phys_health_interview,mental_vs_physical,obs_consequence
+18.0,0.005559968228752979,,,,,,,,,,,,,,,,,,,,,,,,
+19.0,0.007148530579825258,,,,,,,,,,,,,,,,,,,,,,,,
+20.0,0.004765687053216839,,,,,,,,,,,,,,,,,,,,,,,,
+21.0,0.012708498808578236,,,,,,,,,,,,,,,,,,,,,,,,
+22.0,0.016679904686258934,,,,,,,,,,,,,,,,,,,,,,,,
+23.0,0.04050833995234313,,,,,,,,,,,,,,,,,,,,,,,,
+24.0,0.03653693407466243,,,,,,,,,,,,,,,,,,,,,,,,
+25.0,0.048451151707704525,,,,,,,,,,,,,,,,,,,,,,,,
+26.0,0.059571088165210485,,,,,,,,,,,,,,,,,,,,,,,,
+27.0,0.056393963463065924,,,,,,,,,,,,,,,,,,,,,,,,
+28.0,0.054011119936457505,,,,,,,,,,,,,,,,,,,,,,,,
+29.0,0.06751389992057188,,,,,,,,,,,,,,,,,,,,,,,,
+30.0,0.05003971405877681,,,,,,,,,,,,,,,,,,,,,,,,
+31.0,0.05321683876092136,,,,,,,,,,,,,,,,,,,,,,,,
+32.0,0.06513105639396347,,,,,,,,,,,,,,,,,,,,,,,,
+33.0,0.05559968228752978,,,,,,,,,,,,,,,,,,,,,,,,
+34.0,0.051628276409849086,,,,,,,,,,,,,,,,,,,,,,,,
+35.0,0.043685464654487687,,,,,,,,,,,,,,,,,,,,,,,,
+36.0,0.02938840349483717,,,,,,,,,,,,,,,,,,,,,,,,
+37.0,0.03415409054805401,,,,,,,,,,,,,,,,,,,,,,,,
+38.0,0.030976965845909452,,,,,,,,,,,,,,,,,,,,,,,,
+39.0,0.026211278792692614,,,,,,,,,,,,,,,,,,,,,,,,
+40.0,0.026211278792692614,,,,,,,,,,,,,,,,,,,,,,,,
+41.0,0.016679904686258934,,,,,,,,,,,,,,,,,,,,,,,,
+42.0,0.015885623510722795,,,,,,,,,,,,,,,,,,,,,,,,
+43.0,0.022239872915011914,,,,,,,,,,,,,,,,,,,,,,,,
+44.0,0.008737092930897538,,,,,,,,,,,,,,,,,,,,,,,,
+45.0,0.009531374106433678,,,,,,,,,,,,,,,,,,,,,,,,
+46.0,0.009531374106433678,,,,,,,,,,,,,,,,,,,,,,,,
+47.0,0.0015885623510722795,,,,,,,,,,,,,,,,,,,,,,,,
+48.0,0.004765687053216839,,,,,,,,,,,,,,,,,,,,,,,,
+49.0,0.003177124702144559,,,,,,,,,,,,,,,,,,,,,,,,
+50.0,0.004765687053216839,,,,,,,,,,,,,,,,,,,,,,,,
+51.0,0.003971405877680699,,,,,,,,,,,,,,,,,,,,,,,,
+53.0,0.0007942811755361397,,,,,,,,,,,,,,,,,,,,,,,,
+54.0,0.0023828435266084196,,,,,,,,,,,,,,,,,,,,,,,,
+55.0,0.0023828435266084196,,,,,,,,,,,,,,,,,,,,,,,,
+56.0,0.003177124702144559,,,,,,,,,,,,,,,,,,,,,,,,
+57.0,0.0023828435266084196,,,,,,,,,,,,,,,,,,,,,,,,
+58.0,0.0007942811755361397,,,,,,,,,,,,,,,,,,,,,,,,
+60.0,0.0015885623510722795,,,,,,,,,,,,,,,,,,,,,,,,
+61.0,0.0007942811755361397,,,,,,,,,,,,,,,,,,,,,,,,
+62.0,0.0007942811755361397,,,,,,,,,,,,,,,,,,,,,,,,
+65.0,0.0007942811755361397,,,,,,,,,,,,,,,,,,,,,,,,
+72.0,0.0007942811755361397,,,,,,,,,,,,,,,,,,,,,,,,
+Other,,0.9007148530579825,,,,,,,,,,,,,,,,,,,,,,,
+W,,0.09928514694201747,,,,,,,,,,,,,,,,,,,,,,,
+Australia,,,0.016679904686258934,,,,,,,,,,,,,,,,,,,,,,
+Austria,,,0.0023828435266084196,,,,,,,,,,,,,,,,,,,,,,
+"Bahamas, The",,,0.0007942811755361397,,,,,,,,,,,,,,,,,,,,,,
+Belgium,,,0.004765687053216839,,,,,,,,,,,,,,,,,,,,,,
+Bosnia and Herzegovina,,,0.0007942811755361397,,,,,,,,,,,,,,,,,,,,,,
+Brazil,,,0.004765687053216839,,,,,,,,,,,,,,,,,,,,,,
+Bulgaria,,,0.003177124702144559,,,,,,,,,,,,,,,,,,,,,,
+Canada,,,0.057188244638602066,,,,,,,,,,,,,,,,,,,,,,
+China,,,0.0007942811755361397,,,,,,,,,,,,,,,,,,,,,,
+Colombia,,,0.0015885623510722795,,,,,,,,,,,,,,,,,,,,,,
+Costa Rica,,,0.0007942811755361397,,,,,,,,,,,,,,,,,,,,,,
+Croatia,,,0.0015885623510722795,,,,,,,,,,,,,,,,,,,,,,
+Czech Republic,,,0.0007942811755361397,,,,,,,,,,,,,,,,,,,,,,
+Denmark,,,0.0015885623510722795,,,,,,,,,,,,,,,,,,,,,,
+Finland,,,0.0023828435266084196,,,,,,,,,,,,,,,,,,,,,,
+France,,,0.010325655281969817,,,,,,,,,,,,,,,,,,,,,,
+Georgia,,,0.0007942811755361397,,,,,,,,,,,,,,,,,,,,,,
+Germany,,,0.035742652899126294,,,,,,,,,,,,,,,,,,,,,,
+Greece,,,0.0015885623510722795,,,,,,,,,,,,,,,,,,,,,,
+Hungary,,,0.0007942811755361397,,,,,,,,,,,,,,,,,,,,,,
+India,,,0.007942811755361398,,,,,,,,,,,,,,,,,,,,,,
+Ireland,,,0.021445591739475776,,,,,,,,,,,,,,,,,,,,,,
+Israel,,,0.003971405877680699,,,,,,,,,,,,,,,,,,,,,,
+Italy,,,0.005559968228752979,,,,,,,,,,,,,,,,,,,,,,
+Japan,,,0.0007942811755361397,,,,,,,,,,,,,,,,,,,,,,
+Latvia,,,0.0007942811755361397,,,,,,,,,,,,,,,,,,,,,,
+Mexico,,,0.0023828435266084196,,,,,,,,,,,,,,,,,,,,,,
+Moldova,,,0.0007942811755361397,,,,,,,,,,,,,,,,,,,,,,
+Netherlands,,,0.021445591739475776,,,,,,,,,,,,,,,,,,,,,,
+New Zealand,,,0.006354249404289118,,,,,,,,,,,,,,,,,,,,,,
+Nigeria,,,0.0007942811755361397,,,,,,,,,,,,,,,,,,,,,,
+Norway,,,0.0007942811755361397,,,,,,,,,,,,,,,,,,,,,,
+Philippines,,,0.0007942811755361397,,,,,,,,,,,,,,,,,,,,,,
+Poland,,,0.005559968228752979,,,,,,,,,,,,,,,,,,,,,,
+Portugal,,,0.0015885623510722795,,,,,,,,,,,,,,,,,,,,,,
+Romania,,,0.0007942811755361397,,,,,,,,,,,,,,,,,,,,,,
+Russia,,,0.0023828435266084196,,,,,,,,,,,,,,,,,,,,,,
+Singapore,,,0.003177124702144559,,,,,,,,,,,,,,,,,,,,,,
+Slovenia,,,0.0007942811755361397,,,,,,,,,,,,,,,,,,,,,,
+South Africa,,,0.004765687053216839,,,,,,,,,,,,,,,,,,,,,,
+Spain,,,0.0007942811755361397,,,,,,,,,,,,,,,,,,,,,,
+Sweden,,,0.005559968228752979,,,,,,,,,,,,,,,,,,,,,,
+Switzerland,,,0.005559968228752979,,,,,,,,,,,,,,,,,,,,,,
+Thailand,,,0.0007942811755361397,,,,,,,,,,,,,,,,,,,,,,
+United Kingdom,,,0.14694201747418587,,,,,,,,,,,,,,,,,,,,,,
+United States,,,0.596505162827641,,,,,,,,,,,,,,,,,,,,,,
+Uruguay,,,0.0007942811755361397,,,,,,,,,,,,,,,,,,,,,,
+Zimbabwe,,,0.0007942811755361397,,,,,,,,,,,,,,,,,,,,,,
+AL,,,,0.006354249404289118,,,,,,,,,,,,,,,,,,,,,
+AZ,,,,0.005559968228752979,,,,,,,,,,,,,,,,,,,,,
+CA,,,,0.1096108022239873,,,,,,,,,,,,,,,,,,,,,
+CO,,,,0.007148530579825258,,,,,,,,,,,,,,,,,,,,,
+CT,,,,0.003177124702144559,,,,,,,,,,,,,,,,,,,,,
+DC,,,,0.003177124702144559,,,,,,,,,,,,,,,,,,,,,
+FL,,,,0.011914217633042097,,,,,,,,,,,,,,,,,,,,,
+GA,,,,0.009531374106433678,,,,,,,,,,,,,,,,,,,,,
+IA,,,,0.003177124702144559,,,,,,,,,,,,,,,,,,,,,
+ID,,,,0.0007942811755361397,,,,,,,,,,,,,,,,,,,,,
+IL,,,,0.023034154090548053,,,,,,,,,,,,,,,,,,,,,
+IN,,,,0.021445591739475776,,,,,,,,,,,,,,,,,,,,,
+KS,,,,0.0023828435266084196,,,,,,,,,,,,,,,,,,,,,
+KY,,,,0.003971405877680699,,,,,,,,,,,,,,,,,,,,,
+LA,,,,0.0007942811755361397,,,,,,,,,,,,,,,,,,,,,
+MA,,,,0.015885623510722795,,,,,,,,,,,,,,,,,,,,,
+MD,,,,0.006354249404289118,,,,,,,,,,,,,,,,,,,,,
+ME,,,,0.0007942811755361397,,,,,,,,,,,,,,,,,,,,,
+MI,,,,0.017474185861795076,,,,,,,,,,,,,,,,,,,,,
+MN,,,,0.016679904686258934,,,,,,,,,,,,,,,,,,,,,
+MO,,,,0.009531374106433678,,,,,,,,,,,,,,,,,,,,,
+MS,,,,0.0007942811755361397,,,,,,,,,,,,,,,,,,,,,
+NC,,,,0.011119936457505957,,,,,,,,,,,,,,,,,,,,,
+NE,,,,0.0015885623510722795,,,,,,,,,,,,,,,,,,,,,
+NH,,,,0.0023828435266084196,,,,,,,,,,,,,,,,,,,,,
+NJ,,,,0.004765687053216839,,,,,,,,,,,,,,,,,,,,,
+NM,,,,0.0015885623510722795,,,,,,,,,,,,,,,,,,,,,
+NV,,,,0.0023828435266084196,,,,,,,,,,,,,,,,,,,,,
+NY,,,,0.04527402700555997,,,,,,,,,,,,,,,,,,,,,
+OH,,,,0.023828435266084195,,,,,,,,,,,,,,,,,,,,,
+OK,,,,0.004765687053216839,,,,,,,,,,,,,,,,,,,,,
+OR,,,,0.023034154090548053,,,,,,,,,,,,,,,,,,,,,
+PA,,,,0.023034154090548053,,,,,,,,,,,,,,,,,,,,,
+RI,,,,0.0007942811755361397,,,,,,,,,,,,,,,,,,,,,
+SC,,,,0.003971405877680699,,,,,,,,,,,,,,,,,,,,,
+SD,,,,0.0023828435266084196,,,,,,,,,,,,,,,,,,,,,
+TN,,,,0.035742652899126294,,,,,,,,,,,,,,,,,,,,,
+TX,,,,0.03494837172359015,,,,,,,,,,,,,,,,,,,,,
+UT,,,,0.008737092930897538,,,,,,,,,,,,,,,,,,,,,
+VA,,,,0.011119936457505957,,,,,,,,,,,,,,,,,,,,,
+VT,,,,0.0023828435266084196,,,,,,,,,,,,,,,,,,,,,
+WA,,,,0.05559968228752978,,,,,,,,,,,,,,,,,,,,,
+WI,,,,0.009531374106433678,,,,,,,,,,,,,,,,,,,,,
+WV,,,,0.0007942811755361397,,,,,,,,,,,,,,,,,,,,,
+WY,,,,0.0015885623510722795,,,,,,,,,,,,,,,,,,,,,
+0.0,,,,,0.8697378872120731,,,,,,,,,,,,,,,,,,,,
+1.0,,,,,0.11596505162827642,,,,,,,,,,,,,,,,,,,,
+0,,,,,,0.6092136616362193,,,,,,,,,,,,,,,,,,,
+1,,,,,,0.3907863383637808,,,,,,,,,,,,,,,,,,,
+0,,,,,,,0.49404289118347894,,,,,,,,,,,,,,,,,,
+1,,,,,,,0.505957108816521,,,,,,,,,,,,,,,,,,
+0,,,,,,,,0.11437648927720413,,,,,,,,,,,,,,,,,
+1,,,,,,,,0.1374106433677522,,,,,,,,,,,,,,,,,
+2,,,,,,,,0.1691818903891978,,,,,,,,,,,,,,,,,
+3,,,,,,,,0.369340746624305,,,,,,,,,,,,,,,,,
+4,,,,,,,,0.2096902303415409,,,,,,,,,,,,,,,,,
+0,,,,,,,,,0.23034154090548054,,,,,,,,,,,,,,,,
+1,,,,,,,,,0.22398729150119143,,,,,,,,,,,,,,,,
+2,,,,,,,,,0.22954725972994441,,,,,,,,,,,,,,,,
+3,,,,,,,,,0.1397934868943606,,,,,,,,,,,,,,,,
+4,,,,,,,,,0.12867355043685463,,,,,,,,,,,,,,,,
+5,,,,,,,,,0.04765687053216839,,,,,,,,,,,,,,,,
+0,,,,,,,,,,0.7013502779984114,,,,,,,,,,,,,,,
+1,,,,,,,,,,0.29864972200158857,,,,,,,,,,,,,,,
+0,,,,,,,,,,,0.18109610802223988,,,,,,,,,,,,,,
+1,,,,,,,,,,,0.8189038919777601,,,,,,,,,,,,,,
+0.0,,,,,,,,,,,,0.29706115965051627,,,,,,,,,,,,,
+1.0,,,,,,,,,,,,0.37887212073073867,,,,,,,,,,,,,
+0.0,,,,,,,,,,,,,0.397934868943606,,,,,,,,,,,,
+1.0,,,,,,,,,,,,,0.3526608419380461,,,,,,,,,,,,
+0.0,,,,,,,,,,,,,,0.6687847498014297,,,,,,,,,,,
+1.0,,,,,,,,,,,,,,0.181890389197776,,,,,,,,,,,
+0.0,,,,,,,,,,,,,,,0.5131056393963463,,,,,,,,,,
+1.0,,,,,,,,,,,,,,,0.19857029388403494,,,,,,,,,,
+0,,,,,,,,,,,,,,,,0.21127879269261318,,,,,,,,,
+1,,,,,,,,,,,,,,,,0.4471803018268467,,,,,,,,,
+2,,,,,,,,,,,,,,,,0.10007942811755362,,,,,,,,,
+3,,,,,,,,,,,,,,,,0.0778395552025417,,,,,,,,,
+4,,,,,,,,,,,,,,,,0.1636219221604448,,,,,,,,,
+0.0,,,,,,,,,,,,,,,,,0.3891977760127085,,,,,,,,
+1.0,,,,,,,,,,,,,,,,,0.23193010325655283,,,,,,,,
+0.0,,,,,,,,,,,,,,,,,,0.7347100873709294,,,,,,,
+1.0,,,,,,,,,,,,,,,,,,0.048451151707704525,,,,,,,
+0.0,,,,,,,,,,,,,,,,,,,0.20651310563939634,,,,,,
+1.0,,,,,,,,,,,,,,,,,,,0.17871326449563146,,,,,,
+0.0,,,,,,,,,,,,,,,,,,,,0.31215250198570293,,,,,
+1.0,,,,,,,,,,,,,,,,,,,,0.40984908657664815,,,,,
+0.0,,,,,,,,,,,,,,,,,,,,,0.8006354249404289,,,,
+1.0,,,,,,,,,,,,,,,,,,,,,0.03494837172359015,,,,
+0.0,,,,,,,,,,,,,,,,,,,,,,0.3971405877680699,,,
+1.0,,,,,,,,,,,,,,,,,,,,,,0.16044479745830023,,,
+0.0,,,,,,,,,,,,,,,,,,,,,,,0.27005559968228754,,
+1.0,,,,,,,,,,,,,,,,,,,,,,,0.27243844320889593,,
+0,,,,,,,,,,,,,,,,,,,,,,,,0.8538522637013503,
+1,,,,,,,,,,,,,,,,,,,,,,,,0.14614773629864972,
+ ,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+(yes but the situation was unusual and involved a change in leadership at a very high level in the organization as well as an extended leave of absence),,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+* Small family business - YMMV.,,,,,,,,,,,,,,,,,,,,,,,,,0.003971405877680699
+-,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+A close family member of mine struggles with mental health so I try not to stigmatize it. My employers/coworkers also seem compassionate toward any kind of health or family needs.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+A co-worker recently had mental health issues and my employer was very reasonable with them I don't know the full story but I do know that he was given ample time off and eased back in to the work place.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+A lot of these answers aren't really applicable since I'm self employed as a sole proprietor.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+A strong mind goes a long way. Stay strong. Take some time off to help. Its all in your head. ,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Although my employer does everything they can to accommodate employees with mental health problems when those individuals cannot carry out any work assigned to them (even over the course of months) they appear to have no alternative but to terminate their employment. However I believe this would be the same for a physical health problem. ,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+At a previous employer I witness a bad thing happen to a coworker with mental health issues get swept under the rug... :(,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Autism is a bitch for those living with it and living it. For the past years I've really been working hard to get myself (known) in the community. The people in the community that know can be counted on one hand. In general I'm not telling anyway unless it really matters and it would be a gain in some way or the other. Not because I don't trust the community members close to me but because I don't want to be that guy. And IMHO it doesn't and shouldn't matter but sadly some people are funky about that. Yet sometimes I wan't to tell everyone what I've been through and share my lessons learned.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Because I'm self-employed and the only person in my organization I would have liked a not applicable option. I don't want my answers to be misleading.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Being in Canada there are several health options that are available to Canadian citizens/perm residents for free so employers may not provide resources because they are available elsewhere. Otherwise good quiz. I hope this benefits everyone who's dealt with mental health issues in the past!,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Bipolar disorder ,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Bipolar spectrum is tricky.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Despite the impression that several 'no' responses might give my employer has been very supportive. But then I work in health care.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Don't know because I haven't checked not because it's difficult to find out. If you didn't have the don't know option I would've looked up the answer.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Family history of depression.  Currently dealing with depression and anxiety as well as drug addition.Employer provides & pays premiums on insurance which covers therapy and prescriptions.  Employer allows work-from-home and unlimited PTO which makes episodes easier to control.I don't speak of my problems to anyone at work except for the people that I consider friends and even then I don't go into great detail.I would never bring up a mental health issue during an interview for fear of discrimination and rejection (and therefore greater depression).  One co-worker had serious anxiety problems and would not inform his team of episodes and was eventually let go for being unresponsive.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+For clarity I work at a casino.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Fully remote developer,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Had a co-worker disappear from work for a few weeks and then come back to let everyone know he was bipolar. His responsibilities and schedule were adjusted to accommodate but he got worse didn't show up didn't work etc and was eventually let go.It was tough because on the one hand he was struggling with some mental health issues but on the other hand he went through a period of months where he wasn't performing.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Hi Ed it's Paul Dragoonis. I have Aspergers/High Functioning Autism :-),,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I am a 15 year vet of the industry and I get 2 weeks of combined sick and vacation time a year and I have children to fit into that too. I've had heart problems from the stress. Fuck everything about startup culture. ,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I am a Trans woman and suffer from depression relating to that. I'm a contractor so I've answered the questions as relating to my current contract.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I am a contractor so my lack of knowledge of workplace wellness stems directly from my lack of access to that material since I am not covered by it. I am aware that mental health services are available and am aware of a colleague who has taken a leave of absence to deal with mental health issues but am otherwise uninformed.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I am not sure about my company's healthcare because I've opted out of it and I'm covered under another policy.I currently work at a great company though in past jobs I don't think I would have felt comfortable talking about mental health at all.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I answered based on previous job at large technical company where I was pushed out of my role within 3 months of disclosing diagnosis.I had been struggling for 3 months prior to disclosure and was incredibly relieved when finally diagnosed. Growing up in a family open about mental health and also at the end of my rope I immediately shared with management what was going on. I requested a temporary reduced workload so I could reduce anxiety. (At time I didn't know it was anxiety as took me a year to accept that the (to me) deserved stress was anxiety caused by my core diagnosis.) When disclosing I didn't deeply understand details of the state of my mental health; I simply knew I was so stressed out by having been unable to get myself to do work in three months that I couldn't juggle all that was currently on my plate.It was at this point my direct manager and I began an almost daily struggle. After working on a single project and making progress (compared to 3 months before diagnosis when management didn't even know how bad I was doing) I requested increasing my workload. This was never granted; boss said I hadn't proved myself and implied I could not be trusted.Two huge issues stick out to me from that experience:1) Company assumes things would be better and back to 100% within months. They did not understand what one goes through when figuring out meds: things at times got worse. They did not understand how long it takes until meds are figured out: mine took two years. They most certainly would not truly understand why to this day four years later despite being stable I'm in counseling every other week in addition to being on meds. Rather than supporting that it would be seen as oh I'm sorry. I was a problem to my manager because he didn't see improvements each week.2) Accomodations.- There was no option for me to reduce work temporarily to part-time (too complicated). Instead they pushed me to take disability leave. I told them that wouldn't help; they told me to double-check with care providers. That required me to see a psychologist unnecessarily as psychologist said I didn't qualify for leave. (Expensive unnecessary appointment).- The assistance I needed the most at work was understanding: I was open but my manager told me to not tell my co-worker assigned to support me. That was disasterous for colleague's stress/frustration levels. He knew something was up but was barred from asking and I was implied it was better to keep my mouth shut.- Accommodations weren't understood by even Benefits as they're not trained in mental health nor do they have people come in to assess how they're doing in supporting those with mental health issues. Should be no different than people coming in to assess for physical accessibility of the workplace. When in a meeting with my manager supervised by HR I shouldn't feel like I'm asking too much of manager when requesting he put the negative critiques on the back burner and help me figure out whether I'm doing anything right. That this didn't stop him from coming into my office that same day and putting on my dick hat to yell at me for something that wasn't even my fault (he had brought in co-worker for this yelling and turned to finish yelling at this person): FUCKING UNACCEPTABLE.While I will never return to that company and as such took the severance package I will NEVER agree with their legal reason for being unable to do the job: me being medically disqualified from this role. I was too expensive in the short term for them; I'm not worth the cost.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I bring up my depression in interviews solely because I have a large gap on my CV due to mental health issues which could be mistaken for a gap taken to say have children which I feel would harm my chances much more. I have other MH issues I would never bring up with employers or peers.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I burnt out this year. I worked too much had too much pressure on myself from being the sole developer on a delayed project that seemed to grow in size with each week it was delayed by and worried about money a lot.I became depressed and anxious and had trouble eating sleeping and generally being myself. As my depression worsened I was regularly late for work couldn't perform as well as I should and became irritable with my colleagues.My employers response after a while was to send me private messages complaining about my lateness which only worsened the situation. I was prescribed 3 weeks off work by my doctor which my employer agreed to only to come back after to find I had been on 'statutory pay' which was roughly half of what I was expecting and was not enough to cover my rent bills AND food. This made me worse and sent me into another depression until I eventually admitted defeat gave up working and left the company. It took me months to recover and I'm now left (over 6 months after this all started) recovering from the fallout I created leaving employment with hardly any money to my name.I had previously been told by my employer that I was too young to burn out and (stupidly) trusted them. I did not feel comfortable discussing my problems with my employer because each time I was met with an attitude that I had to get myself together and ultimately given the amount of employees before me who had left the company by being fired after an altercation with the employer left me with no option but to hide it from them so I too wouldn't be fired.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I currently have the best managers I've ever worked with. I don't have any issues but one of my coworkers recently did and it was handled extremely well. ,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I don't have a job :D,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I don't have any mental health issues but for a number of years I had to care for a family member who did and I felt that I was not able to discuss or get support from friends or colleagues in the same way that I might have if they had suffered from a physical condition.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I feel like most of my answers were useless due to answering that I am self-employed early on. Since my employer is me... my employer does/doesn't offer mental health benefits or would I be comfortable bring it up with 'them' doesn't make sense...,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I feel that my employer and colleagues have created my mental health issue. Additionally I have contributed to this by staying in the same job with the same employer for 10+ years.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I found it difficult to answer all of the questions effectively as many of them would depend on the nature of the mental health issues as some seem more socially accepted than others. For some people telling your current supervisor that you have a history of bi-polar disorder might be easier than telling a potential employer that you have a history of compulsive gambling. They might both be bits of irrelevant information (past behavior and not indicators of future behavior). However western culture pushes us to appear as capable as possible to our supervisors in pursuit of excellence in our work. Providing information that could create a negative bias seems like a more genuine and yet more risky approach to the discussion.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I have Narcolepsy and have been fired from a job before for falling asleep standing up during a meeting. I was standing up in the back of the room so that i could pace and try to prevent myself from falling asleep. I still managed to fall asleep while standing and fell over against the wall. I was fired the next day. The worst part is this is a condition i had given months of notice about to my boss and i reminded her of it before the meeting. I worked at a hospital at the time. I would have thought that they would be more accommodating.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I have an exceptional employer. I haven't run into problems with any employer I've had but consider myself lucky.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I have been incredibly public about my own struggle in my own conversations and in social media insofar as how I can use my depression to raise awareness or help others. Because of that my employer - or any future employer - kind of knows by default. It's not a secret. That said the downside of that openness is that I have no faith that I wouldn't be discriminated against at a future job simply because the information is public. Likewise I worry I'm seen as less-than by my employer in some circumstances. Regerdless I don't regret being public and raising awareness. My point is that even those of us who do publicly discuss the issue fear systemic retribution. ,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I have chronic low-level neurological issues that have mental health side effects. One of my supervisors has also experienced similar neurological problems so I feel more comfortable being open about my issues than I would with someone without that experience. ,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I have only discussed my mental illness with close family members. I feel completely uncomfortable discussing with anyone at my place of employment as I am concerned it would have negative consequences.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I just started a new job last week hence a lot of don't know's,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I mostly suffer from social anxiety which keeps me from attending conferences. In my small dev group a big problem is a supervisor who's a workaholic and will never say no when asked to do something so he's doing the job of at least two ppl (poorly) and working crazy hours setting the tone for the test of us that work/life balance isn't important.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I openly discuss my mental health struggles. I have found that doing so encourages people who also struggle to seek treatment. I'm willing to risk losing the support of people who don't understand if it helps those who understand all too well.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I selected my current employer based on its policies about self care and the quality of their overall health and wellness benefits. I still have residual caution from previous employers who ranged from ambivalent to indifferent to actively hostile regarding mental health concerns.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I should note one of the places my employer fails with regards to mental health is that the company-paid health insurance policy does not cover trans healthcare needs.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I suffer from mild depression and anxiety.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I suffered of panic attacks and agoraphobia for about 10 years.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I talked to a psychiatrist once about taking medical leave for mental health issues with his referral. He was willing to help but warned me that I may not want to as he's seen that sort of thing follow people throughout their tech careers (word gets out even if it's confidential at work). I've been terrified of bringing mental health up anywhere that coworkers or potential employers could see ever since.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I think I am very lucky in my workplace. Our CEO has a degree in psychology.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I think a lot of our policy is based on a situation that occurred in the past 5 years. A very public mental illness happened with a coworker that unfortunately ended negatively. It was definitely a catalyst to talking about our options but the overall sentiment of it being OK to take time off talk with your supervisors etc. has always been there. It's a great company.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I think there might be some bugs in my thought but I haven't sought treatment because they're not worse than annoying and I worry about having the label.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I tried to answer as good as possible but I am CEO of a company so many questions don't fit very well.Also many of the questions are very US-centric in most systems healthcare is not your employers business.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I was (wrongly) diagnosed clinically depressed at 12 then bipolar I at 15 and medicated for a decade until decided myself to go drug free. Since then I've never been happier. Insomnia and my insatiablility for learning and programming have always had a symbiotic  relationship.It might also bear mentioning that I'm self-employed in addition to my more traditional day job.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I went through a divorce and was pretty depressed I went to therapy and my boss (one of the owners) was extremely supportive. I'm not sure I would have got through that rough time with out my co-workers and boss.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I work at a large university with a track record of health and wellbeing support,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I work for a university.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I work for a very small firm that doesn't really have a dedicated H/R person. Also for the question:If you have a mental health condition do you feel that it interferes with your work?...I don't have a diagnosed mental health condition but I suspect I might have some slight depression issues. Definitely have Imposter Syndrome.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I work for an extremely supportive company and we are amazingly open about mental health issues. Employees often share their struggles with the whole team and receive a high level of support in return.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I work for the state government. While things are slowly changing regarding covering mental health with state employees it's just not something that is acceptable in this kind of strict environment so I have to be careful about what I say and how I say it. I often take mental health days but have to call in with a physical illness because mental health problems are not acceptable excuses for using sick leave.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I work for the state so the health plan is large and cumbersome.  I believe it covers most medical as a state benefit but I haven't seen any promotion of it.  And it's not really the same as a tech company where I am.  We are an IT department but hardly run like any tech company around.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I would add that while there were negative consequences for coworkers with mental health they were given a HUGE amount of leeway.  I think the team at large tried their best to be kind but that's how the person suffered.  The company actually gave this person a lot of help.  Which was cool.  But the team still discriminated.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I'd be more worried about coworkers and workplace culture than the employer--they're probably legally obligated to do some things but reputation among people I work with is something else. For instance I've heard people make snide remarks about men taking paternity leave I don't want to know what they'd say about mental health leave.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I'm afraid I haven't seen mental health issues arise at work yet. They are very accommodating with maternity leave but I don't know how that translates to anything else.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I'm comfortable talking about mental health with my current supervisor & my immediate at my current job but this is a first for me!,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I'm diagnosed with Bipolar Disorder. My benefits for mental health exist but are terrible. The deductible is $800. I see a therapist once or twice a month at the cost of $150. The insurance company only values it at $40. My psychiatrist is $180 for 15 minutes. The insurance company values it at $80. It is IMPOSSIBLE to hit my deductible. I don't even bother making the claims.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I'm not a permanent employee so do not get they benefits they get.My client is extremely supportive of permanent staff with mental health issues.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I'm not aware of anyone with mental health issues at work it's definitely not something that's discussed publicly. There's also a lot of other personal info I don't know about my coworkers so it may just be that we tend not to talk about personal issues.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I'm not on my company's health insurance which could be part of the reason I answered Don't know to so many questions.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I'm self-employed on contract with small start-up. Covered through spouse's insurance.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I'm troubled by the way that our hiring process tends to filter out non-neurotypicals of all stripes. Competent people who act a little funny can be hard to hire.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I've answered 'Yes' on remote working but 50% is the maximum time we're allowed.The branch of the company I work for doesn't offer any medical benefits. It's not as common in the UK as we have the NHS for the moment. There are international branches that may so I've answered 'Don't know'.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I've never heard of a workplace that would actually allow you to call off for mental health reasons. So many places require a doctor's note for calling off sick. It's all set up to make you feel worse if you can't just suck it up. Thanks for working to change this!!!,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+I've seen negative consequences towards mental health conditions in previous workplaces.Working remote is empowering in this way.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+If a man in tech is afraid of speaking up about these things it is even worse for women in tech who are already fearful of and fighting against the stigma of incompetence.  On the other hand if a female in tech does not commiserate with her male coworkers on mental health problems she will no longer be seen as a team player. It is really a catch-22 for women in STEM.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+In Belgium we have all medical care so perhaps some question are not relevant,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+In Germany your employer doesn't really provide mental health benefits. There's a standard and I get that but I would get the same at any other company in Germany.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+In Russia we have mandatory medical insurance. Every employer must pay 3.6% of every employee's salary to the insurance fund like a tax. Everyone gets free healthcare at public clinics and hospitals. Some types of healthcare including mental health are still funded from the government budget but that doesn't matter it's still FREE!However this is Russia :D I don't know much about what actually happens in mental hospitals here except that a lot of young people with male in their passports use these to avoid military draft and doctors seem to help them.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+In addition to my own mental health issues I've known several coworkers that may be suffering and I don't know how to tell them I empathize and that I want to help.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+In australia all organisations of a certain size have to provide free access to a 'employee assistance program' to discuss work and personal issues.EAPs are an external provider totally confidential and anonymous (ring up andsay the name of who you work for - so they know to bill your work)  and they offer phone and face to face consults.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+In my previous workplace which had mental health protections policies and access to counsellors my Director went so far as to say to me in somewhat casual conversation A woman was murdered across the street. At best though she was bipolar and at worst - who knowsI have bipolar disorder. I have zero faith that an organization with policies in place could appropriately handle mental health. I have even less faith that a workplace without the policies in place could appropriately handle mental health. I can only imagine it's worse in full tech environments.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+In small startups it is very hard to keep mental health issues truly private no matter what management does.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Israel has public health insurance for everyone. Everyone has free mental health coverage and it's quite good. So that explains some of my answers.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+It has come to interfere with work as life progresses.Between burn out and enduring more of the work and balancing a family. Changes in my mental health have a larger pond to make ripples in.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+It might be safe to talk about it where I am now but I don't know for sure and I err on the side of being over cautious. Struggle with depression and anxiety which sometimes affects my productivity but I try to make up / cover up for it instead of being open about it.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+It's a small startup in a small city in a small country.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Italians are somewhat behind for what concerns mental health care in the workplace.  Physical health care is very much accepted with a doctor that certifies your ailment.  Mental health is treated quite differently I believe because most people are willing to admit that physical ailments should be covered while mental ailments are almost considered non-existent in most respects.  ,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Just starting a new job hence the numerous I don't know selections.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Majority of qs on survey not relevant if you are self employed,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Many of these questions become irrelevant once 'Yes' is selected for 'Are you self-employed'.  It would be preferable for there to be a 'Not Relevant' option on these.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Many of these questions were difficult to answer as a self-employed person; I did my best with the available options.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Mental health at work is not an issue if you leave work problems at work that may be easier for those of us not in a support role.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Mental health issue I have dealt with: acute depression,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Most employers / coworkers and even immediate family is not all the time supportive to discuss depression and other problems. ie. My wife thinks she should be able to make sure that I am not depressed  which is funny because sometimes depression state has nothing to do with her. ,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+My company does provide healthcare but not to me as I'm on a fixed-term contract. The mental healthcare I use is provided entirely outside of my work.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+My current work situation was constructed in part because of my mental health issues. One of the reasons I'm self employed is to give me the most flexibility for coping with my mental health issues.I have been removed from a client project in the past because of a mental health condition. This was while I was an employee for a large consulting company. ,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+My employer currently does not offer any health insurance I have to get that on my own.  However at past positions I have had health insurance but no one ever mentioned mental health issues nor would I wish to discuss those with my co-workers bosses etc for fear of negative reception.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+My employer does what they can providing a wellness program and pointing it out after particularly stressful times. But the interaction between the wellness program and the medical insurance is unpleasant and finding a long-term therapist / psychiatrist covered by insurance is amazingly difficult. My current lack of active treatment is due to insurance friction more than workplace friction.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+My employer employs 17k people worldwide and my previous employer only 140 globally both have been very supportive and accommodating with my moderate depression and intense anxiety.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+My employer gives access to basic counseling and referrals but I don't know (and it's not obvious) what might be covered in the way of expenses for therapy medication etc.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+My employer is extremely easy to work with and e.g. I have enormous leeway with flex time so I could take care of myself under that umbrella but I don't know and don't have a history of bring up mental health at the workplace so I am cautious in that area.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+My mental health issues were the direct result of the trauma from childhood abuse. Most (all?) of the Prompt-sponsored/related presentations I've seen have been about congenital mental health issues that are treatable with continued medication. For me medication only provided temporary assistance. I needed years of (continuing) therapy to deal with PTSD and related disorders (depression anxiety suicidal tendencies others). I haven't seen many in our community discussing trauma-related mental health issues but they are just as real and just as debilitating.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+My refer to the mental health issue of depression.  I might answer differently if I was talking about a more serious issue like schizophrenia,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+My seniority at the company and rapport with the owners has helped me gain support for seeking help regarding my mental health as well as being able to take time off or work from home when an episode starts.However I don't feel that the company's stance on mental health is as clear as say something like vision or dental.  There's very much a stigma.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+My work is using my brain. I do it incredibly well.I make an effort to avoid diagnosis of anything mental health related because I am convinced it would only affect me negatively.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Nice job on the text field for gender :-),,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+No benefits at this organization but my employer/direct supervisor has had positive and constructive conversations with me about physical and mental health. Supervisor offered solutions advice time/energy to get help if I ever felt that needed it. (though it would have to be at my own expense). I feel safe sharing personal info with this particular person/company but this environment is the exception rather than the norm in my 15+ years as a tech worker. I would never feel safe enough to reveal info about any mental health concerns with any previous employers in the tech industry for fear of  negative perceptions job loss performance dings etc. ,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+None of us who are already in marginal groups in tech--the non-young the non-male the non-white--will risk our careers to admit another source of stigma: poor health.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Now at starutp.  Previously worked at big tech company which was actually quite good at supporting mental health issues.  Still wouldn't share with bosses/other employees though as there remains a strong negative stigma.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+One of my coworkers has mental health issues and she's open about them (eg: my enjoyment of this project may be due to my recent change in meds). I believe the response has been generally supportive. We're a very small tight-knit company.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Our health plan has covered my psychotherapy and my antidepressant medication. My manager has been aware but discreet throughout. I did get negative reviews when my depression was trashing my delivery but y'know I wasn't delivering.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+People have often felt uncomfortable with my story while most of it happened a decade ago. I used to be quite open about it and have since kept it quietly tucked away. While I sometimes have waves of depression I have learned to cope with the affects.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Really manager dependent. I have had managers who work with my strengths and others who want my to work on my weaknesses which are directly tied to my mental issues. ,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Regardless of a stated lack of negative consequences for discussing mental health issues with coworkers/superiors unconscious bias is a very real thing - as long as I don't *need* to inform my co-workers my mental health issues do not need to be public knowledge.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Relatively new job. Ask again later,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Since I am the CEO of my startup some of the would you feel comfortable and do you know the policy questions are interesting.  Of course I feel comfortable since no one can fire me and I know the policies because I chose them!However now I am curious if my employees know just how supportive the company would be of their mental health needs and this survey is making me realize that we probably haven't done a great job communicating that to everyone.  Thanks for doing this.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Since being advised by Occupational Health that the tempo and spontenaity of the office environment was likely to have a negative effect on my mental health (I'm schizoaffective) I've been moved to 100% remote (home) working. The company have furnished a home office for me and I am only required to attend the office once a month to keep in touch,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+So much depends upon the organization. ,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Some of these questions are not really suitable for non US people.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Some of these questions were difficult to answer as being self-employed they didn't all apply to me.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Some of these should not be required.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Sometimes I think  about using drugs for my mental health issues. If i use drugs I feel better,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Stigma is the worst. People first language is a small step but we can't get that right.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Thank you for all you are doing to study this topic and raise awareness in our communities. ,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Thank you for shining a light on this topic.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Thank you for your work what you do is important!,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Thank you this is very important.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Thanks for doing this research.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Thanks for doing this. It will help end the stigma!,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+The company I work for was started by engineers and so anything other then the engineering department has always lacked a bit. Now that we've grown things are better but I feel that overall our total benefits package (including healthcare) isn't well communicated. This reflects negatively on the mental health questions above but would also reflect negatively on any other sort of survey about the benefits. That is I don't think the company is purposefully doing less for mental health. They just aren't doing enough across the board and that includes mental health.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+The data will be skewed for self-employed people as the questions contain some bias.Having said that: being self-employed I *choose* to work for companies which want to employ *me* not just my skills but including my opinions my life-experience etc. If a potential contract/job doesn't *feel* right I prefer to not take it (and be poor) than to compromise myself.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+The family history question needs a don't know option.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+The form of mental health problem that I suffer is anxiety.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+The main reason for the openness answers are because of an experience with my last employer. I felt I could trust my direct supervisor so I divulged information. It ended up spreading to more supervisors and eventually my coworkers. Supers highly suggested treatment but rushed things that shouldn't have been rushed and I ended up being incorrectly treated in a psych ward and mentally scarred from the issue. I lost most of my desire to program due to the experience not to mention thousands of dollars I lost - lost work time vacation time they used for treatment time doctors expenses etc. I have major depressive disorder high anxiety and mild agoraphobia. After seeing what treatment has to offer I will likely not seek it again and continue as is. (Long story short.),,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+The questions related to employer-provided health benefits are largely irrelevant to where I live Australia so I'd discount them.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+The supposed divide between mental and physical health needs to done away with and probably will be as our knowledge of the brain increases. That said we are often employed for our ability to provide value. If any issue prevents is from providing value that creates a very real challenge for the employer who is responsible to shareholders and other team members who are providing value. There are no easy answers here.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+The thought of going through my employer directly to get help is fucking scary.Getting help is the hardest part of getting help.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+These result may be a tad confusing so a summary follows.* Currently self-employed so employer is me :)* Last place of employment was amazing when I first discovered I was bi-polar and helped me as long as I was there up to and including a mental health course for the whole team (although no mention why to others which was great).* I've never had a negative reaction yet but I know others who have.* I've been very lucky with company I keep which is why my experience is largely good.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+This issue for me is very real at the moment. I have missed several days of work recently because of a bad reaction to a depression/anxiety drug and I hate not being able to discuss it with my boss without worrying that I will be labeled a liability. ,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+This survey was tough as a self-employed individual. You may wish to discard responses from self employed people for much of your analysis.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Though I'm in the Netherlands and chose that country from the list quite some questions are strongly geared towards the US. Over here people don't need benefits from their employer because we pay enough taxes for the government to pay for treatment of any physical or mental condition. We don't need employer approval for medical leave; that's something a qualified medical professional decides (and while on leave we still get paid our salaries something the employer can get insurance for). I answered yes to questions about these things meaning it's covered not it's covered by my employer.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Though it doesn't affect me (male) good job for making the Gender field a text input instead of a drop down of only two options.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+To be self employed helps but also brings you in touch with lots of new people that you might have to explain yourself to.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Too many people even especially IT considered mental health issues as a choice or something people can freely act about. You are depressed: take vacation. You feel weird: admit it is physical (otherwise it is not serious) go and see a doctor (and if you are on sick leave too many days you will get fired). You don't feel good today: take a holiday but don't work from home. In startup there is what I call the tyranny of happiness: you have to look happy to be accepted and to be worked with. At some point playing a role can definitely make the mental health issue worse and it is also a threat to diversity :(I don't like to call mental health issues an issue but actually when it comes to company field it too often becomes an issue and this is sad because working is sometimes better than medication. It is a vicious circle: people are scared of speaking about it so they don't inform their coworkers about what mental health is for real and so coworkers are so scared on a regular basis that the people with mental health issues keep it for themselves. ,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+We don't fucking talk about it ever.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+We had a developer suffer from depression and pretty hard burnout but he refused treatment even when the company said we'd foot the bill. Eventually he had to be asked to resign which was a shame. I don't know if we have any specific programs for mental health but we're definitely on the lookout for those types of issues.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+When I've had a depression I was lucky to have an awesome manager who was very understanding and found a budget to pay for my therapy sessions.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+When you are an introvert people don't notice if you are depressed. Its a vicious cycle of sorts.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+While I have not seen any direct retaliation against people with known mental illness many people do freely use insults commonly associated with mental illness (r****d for example) and criticize people behind their back for taking extra leave for doctor appointments (Oh I bet they are just hung over or other comments about how lazy they are.),,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+While mental health is a part of our insurance program the UCR is 50% of 140% of medicare which means a solo mental health practitioner who will charge in my area $150-$180 a session will only result in a $45-$60 reimbursement and thus a very high out of pocket expense. This usage of a different schedule for UCR and often the lower rate is very hard to determine before purchasing insurance even in the new health insurance exchanges.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+While not personally affected I do have immediate family with mental health illness and my employer has been very supportive. Thanks for doing this survey.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+Would you bring up a mental health issue with a potential employer in an interview?Poignant.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+YOU MAY WANT TO THROW OUT MY ENTRY.I answered all of these questions with the assumption that Attention Deficit Disorder is considered a mental illness and with ADD in mind.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+as a UK-based company we don't have any medical provisions as it's all provided on the National Health Service (for now!) However if we do need to take days off for any kind of health problems everyone is understanding :),,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+fwiw I am a co founder of this company and the would you X in an interview questions shouldn't reflect how I would treat anyone addressing their own phys/mental health issue to me in such a situation. ,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+i'm in a country with social health care so my options are not dependant on my employer. this makes a few of the early questions less relevant than they would be for a resident of the US.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+it is my opinion that bad mental health is a red flag for employers and i would never bring it up.,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+password: testered,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+suffer from CR-PTSD so all answered based on that,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+thanks for what you're doing. FYI these questions dont quite work for entrepreneurs where employer == cofounders / sr mgmt / me,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397
+you rock for doing this!,,,,,,,,,,,,,,,,,,,,,,,,,0.0007942811755361397

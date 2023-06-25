@@ -1,0 +1,34 @@
+i:\documents\visual studio 2013\Projects\БД\БД\bin\Debug\БД.exe.config
+i:\documents\visual studio 2013\Projects\БД\БД\bin\Debug\Самолет.accdb
+i:\documents\visual studio 2013\Projects\БД\БД\bin\Debug\Самолет.mdb
+i:\documents\visual studio 2013\Projects\БД\БД\bin\Debug\БД.exe
+i:\documents\visual studio 2013\Projects\БД\БД\bin\Debug\БД.pdb
+i:\documents\visual studio 2013\Projects\БД\БД\obj\Debug\БД.csprojResolveAssemblyReference.cache
+i:\documents\visual studio 2013\Projects\БД\БД\obj\Debug\БД.Form1.resources
+i:\documents\visual studio 2013\Projects\БД\БД\obj\Debug\БД.Properties.Resources.resources
+i:\documents\visual studio 2013\Projects\БД\БД\obj\Debug\БД.csproj.GenerateResource.Cache
+i:\documents\visual studio 2013\Projects\БД\БД\obj\Debug\БД.exe
+i:\documents\visual studio 2013\Projects\БД\БД\obj\Debug\БД.pdb
+H:\БД\БД\obj\Debug\БД.csproj.AssemblyReference.cache
+H:\БД\БД\obj\Debug\БД.Form1.resources
+H:\БД\БД\obj\Debug\БД.Properties.Resources.resources
+H:\БД\БД\obj\Debug\БД.csproj.GenerateResource.cache
+H:\БД\БД\obj\Debug\БД.csproj.CoreCompileInputs.cache
+H:\БД\БД\obj\Debug\БД.exe
+H:\БД\БД\obj\Debug\БД.pdb
+H:\БД\БД\bin\Debug\Самолет.accdb
+H:\БД\БД\bin\Debug\Самолет.mdb
+H:\БД\БД\bin\Debug\БД.exe.config
+H:\БД\БД\bin\Debug\БД.exe
+H:\БД\БД\bin\Debug\БД.pdb
+F:\БД\БД\bin\Debug\БД.exe.config
+F:\БД\БД\obj\Debug\БД.exe
+F:\БД\БД\obj\Debug\БД.pdb
+F:\БД\БД\bin\Debug\Самолет.accdb
+F:\БД\БД\bin\Debug\Самолет.mdb
+F:\БД\БД\bin\Debug\БД.exe
+F:\БД\БД\bin\Debug\БД.pdb
+F:\БД\БД\obj\Debug\БД.csprojResolveAssemblyReference.cache
+F:\БД\БД\obj\Debug\БД.Form1.resources
+F:\БД\БД\obj\Debug\БД.Properties.Resources.resources
+F:\БД\БД\obj\Debug\БД.csproj.GenerateResource.Cache

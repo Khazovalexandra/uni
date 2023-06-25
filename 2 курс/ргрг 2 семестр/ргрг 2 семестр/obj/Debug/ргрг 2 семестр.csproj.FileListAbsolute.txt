@@ -1,0 +1,11 @@
+C:\Users\Сергей\source\repos\ргрг 2 семестр\ргрг 2 семестр\bin\Debug\ргрг 2 семестр.exe.config
+C:\Users\Сергей\source\repos\ргрг 2 семестр\ргрг 2 семестр\bin\Debug\ргрг 2 семестр.exe
+C:\Users\Сергей\source\repos\ргрг 2 семестр\ргрг 2 семестр\bin\Debug\ргрг 2 семестр.pdb
+C:\Users\Сергей\source\repos\ргрг 2 семестр\ргрг 2 семестр\obj\Debug\ргрг 2 семестр.csproj.AssemblyReference.cache
+C:\Users\Сергей\source\repos\ргрг 2 семестр\ргрг 2 семестр\obj\Debug\ргрг_2_семестр.Form1.resources
+C:\Users\Сергей\source\repos\ргрг 2 семестр\ргрг 2 семестр\obj\Debug\ргрг_2_семестр.Properties.Resources.resources
+C:\Users\Сергей\source\repos\ргрг 2 семестр\ргрг 2 семестр\obj\Debug\ргрг 2 семестр.csproj.GenerateResource.cache
+C:\Users\Сергей\source\repos\ргрг 2 семестр\ргрг 2 семестр\obj\Debug\ргрг 2 семестр.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\ргрг 2 семестр\ргрг 2 семестр\obj\Debug\ргрг 2 семестр.exe
+C:\Users\Сергей\source\repos\ргрг 2 семестр\ргрг 2 семестр\obj\Debug\ргрг 2 семестр.pdb
+C:\Users\Сергей\source\repos\ргрг 2 семестр\ргрг 2 семестр\obj\Debug\ргрг 2 семестр.csproj.ResolveComReference.cache

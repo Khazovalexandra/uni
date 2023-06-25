@@ -1,0 +1,64 @@
+<html>
+<head>
+<title>Задание 14</title>
+<meta charset="UTF-8"> 
+<script language="JavaScript" type="text/javascript">
+window.addEventListener("load",function(){
+document.getElementById("b").addEventListener("click",function(){
+var inp1 = document.getElementById("inp1");
+var inp2 = document.getElementById("inp2");
+var inp3 = document.getElementById("inp3");
+var email = document.getElementById("email");
+var imy = document.getElementById("imy");
+if((email.value.length==0)||(imy.value.length==0)||(inp3.value.length==0)||(inp1.value.length==0)||(inp2.value.length==0)){ 
+document.getElementById("check").innerHTML = alert("Не все обязательные поля заполнены!");
+imy.select();
+    return;
+}
+if((inp2.value<=4)&&(inp1.value<=4)){
+document.getElementById("res1").innerHTML = alert("Короткий пароль!");
+inp1.value="";
+inp2.value="";
+inp1.select();
+    return;
+}
+if(inp1.value!=inp2.value){
+document.getElementById("res2").innerHTML = alert("Пароли не совпадают!");
+inp1.value="";
+inp2.value="";
+inp1.select();
+    return;
+}
+if(inp3.value.length<=10){
+inp3.value=""; 
+document.getElementById("der").innerHTML = alert("Слишком маленькое сообщение");
+inp3.select();
+    return;
+}
+if(!email.value.includes('@'))
+{
+    document.getElementById("em").innerHTML = alert("Email введен не верно");
+    email.select();
+    return;
+}
+});
+})
+</script>
+</head>
+<form name="form" onsubmit="return validate()">
+Ваше имя*<input type="text" id="imy" size=15 required><br>
+Пароль*<input type="password" id="inp1" size=10 required><br>
+Потверждение пароля*<input type="password" id="inp2" size=10 required><br>
+Электронный адрес*<input type="email" id="email" required><br>
+Тема сообщения:<input type="text" size=15 required><br>
+Сообщение:<textarea id="inp3" cols=16 rows=5>Введите сообщение</textarea><br><br>
+<input type="button" value="Проверить" id="b"><input type="reset" value="Очистить форму">
+*-необходимые для заполнения поля
+<div id="check"></div>
+<div id="res1"></div>
+<div id="res2"></div>
+<div id="der"></div>
+<div id="em"></div>
+</form>
+</body>
+</html>

@@ -1,0 +1,10 @@
+C:\Users\Сергей\source\repos\Уравнение\Уравнение\bin\Debug\Уравнение.exe.config
+C:\Users\Сергей\source\repos\Уравнение\Уравнение\bin\Debug\Уравнение.exe
+C:\Users\Сергей\source\repos\Уравнение\Уравнение\bin\Debug\Уравнение.pdb
+C:\Users\Сергей\source\repos\Уравнение\Уравнение\obj\Debug\Уравнение.csproj.AssemblyReference.cache
+C:\Users\Сергей\source\repos\Уравнение\Уравнение\obj\Debug\Уравнение.Form1.resources
+C:\Users\Сергей\source\repos\Уравнение\Уравнение\obj\Debug\Уравнение.Properties.Resources.resources
+C:\Users\Сергей\source\repos\Уравнение\Уравнение\obj\Debug\Уравнение.csproj.GenerateResource.cache
+C:\Users\Сергей\source\repos\Уравнение\Уравнение\obj\Debug\Уравнение.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\Уравнение\Уравнение\obj\Debug\Уравнение.exe
+C:\Users\Сергей\source\repos\Уравнение\Уравнение\obj\Debug\Уравнение.pdb

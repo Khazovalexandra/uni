@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Задание 6</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+<script language="JavaScript" type="text/JavaScript">
+    x=prompt("Введите степень двойки",'5');
+   document.write('<table border=1>');
+    document.write('<td><b>Степень</b></td><td><b>Результат</b></td>');
+    if (x<0)
+    {
+        for(var i=x; i<=0; i++)
+        {
+            document.write('<tr><td align = center>2<sup>' + i + '</sup></td><td>' + Math.pow(2, i) + '</td></tr>');
+        }
+    }
+    else 
+    {
+        for(var i=0; i<=x; i++)
+        {
+            document.write('<tr><td align = center>2<sup>' + i + '</sup></td><td>' + Math.pow(2, i) + '</td></tr>');
+        }
+    }
+    document.write('</table>');
+</script>
+</head>
+<body>
+
+</body>
+</html>

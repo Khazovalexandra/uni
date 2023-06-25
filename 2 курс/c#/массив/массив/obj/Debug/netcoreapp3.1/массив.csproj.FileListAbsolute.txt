@@ -1,0 +1,14 @@
+C:\Users\Сергей\source\repos\массив\массив\obj\Debug\netcoreapp3.1\массив.csproj.AssemblyReference.cache
+C:\Users\Сергей\source\repos\массив\массив\obj\Debug\netcoreapp3.1\массив.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\source\repos\массив\массив\obj\Debug\netcoreapp3.1\массив.AssemblyInfoInputs.cache
+C:\Users\Сергей\source\repos\массив\массив\obj\Debug\netcoreapp3.1\массив.AssemblyInfo.cs
+C:\Users\Сергей\source\repos\массив\массив\obj\Debug\netcoreapp3.1\массив.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\массив\массив\bin\Debug\netcoreapp3.1\массив.exe
+C:\Users\Сергей\source\repos\массив\массив\bin\Debug\netcoreapp3.1\массив.deps.json
+C:\Users\Сергей\source\repos\массив\массив\bin\Debug\netcoreapp3.1\массив.runtimeconfig.json
+C:\Users\Сергей\source\repos\массив\массив\bin\Debug\netcoreapp3.1\массив.runtimeconfig.dev.json
+C:\Users\Сергей\source\repos\массив\массив\bin\Debug\netcoreapp3.1\массив.dll
+C:\Users\Сергей\source\repos\массив\массив\bin\Debug\netcoreapp3.1\массив.pdb
+C:\Users\Сергей\source\repos\массив\массив\obj\Debug\netcoreapp3.1\массив.dll
+C:\Users\Сергей\source\repos\массив\массив\obj\Debug\netcoreapp3.1\массив.pdb
+C:\Users\Сергей\source\repos\массив\массив\obj\Debug\netcoreapp3.1\массив.genruntimeconfig.cache

@@ -1,0 +1,19 @@
+C:\Users\Сергей\source\repos\текстовый редактор\текстовый редактор\bin\Debug\текстовый редактор.exe.config
+C:\Users\Сергей\source\repos\текстовый редактор\текстовый редактор\bin\Debug\текстовый редактор.exe
+C:\Users\Сергей\source\repos\текстовый редактор\текстовый редактор\bin\Debug\текстовый редактор.pdb
+C:\Users\Сергей\source\repos\текстовый редактор\текстовый редактор\obj\Debug\текстовый редактор.csproj.AssemblyReference.cache
+C:\Users\Сергей\source\repos\текстовый редактор\текстовый редактор\obj\Debug\текстовый_редактор.Form1.resources
+C:\Users\Сергей\source\repos\текстовый редактор\текстовый редактор\obj\Debug\текстовый_редактор.Properties.Resources.resources
+C:\Users\Сергей\source\repos\текстовый редактор\текстовый редактор\obj\Debug\текстовый редактор.csproj.GenerateResource.cache
+C:\Users\Сергей\source\repos\текстовый редактор\текстовый редактор\obj\Debug\текстовый редактор.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\текстовый редактор\текстовый редактор\obj\Debug\текстовый редактор.exe
+C:\Users\Сергей\source\repos\текстовый редактор\текстовый редактор\obj\Debug\текстовый редактор.pdb
+F:\текстовый редактор\текстовый редактор\bin\Debug\текстовый редактор.exe.config
+F:\текстовый редактор\текстовый редактор\obj\Debug\текстовый редактор.exe
+F:\текстовый редактор\текстовый редактор\obj\Debug\текстовый редактор.pdb
+F:\текстовый редактор\текстовый редактор\bin\Debug\текстовый редактор.exe
+F:\текстовый редактор\текстовый редактор\bin\Debug\текстовый редактор.pdb
+F:\текстовый редактор\текстовый редактор\obj\Debug\текстовый редактор.csprojResolveAssemblyReference.cache
+F:\текстовый редактор\текстовый редактор\obj\Debug\текстовый_редактор.Form1.resources
+F:\текстовый редактор\текстовый редактор\obj\Debug\текстовый_редактор.Properties.Resources.resources
+F:\текстовый редактор\текстовый редактор\obj\Debug\текстовый редактор.csproj.GenerateResource.Cache

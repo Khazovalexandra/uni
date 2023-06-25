@@ -1,0 +1,10 @@
+C:\Users\Сергей\source\repos\SQLtoLINQ\SQLtoLINQ\bin\Debug\SQLtoLINQ.exe.config
+C:\Users\Сергей\source\repos\SQLtoLINQ\SQLtoLINQ\bin\Debug\SQLtoLINQ.exe
+C:\Users\Сергей\source\repos\SQLtoLINQ\SQLtoLINQ\bin\Debug\SQLtoLINQ.pdb
+C:\Users\Сергей\source\repos\SQLtoLINQ\SQLtoLINQ\obj\Debug\SQLtoLINQ.csproj.AssemblyReference.cache
+C:\Users\Сергей\source\repos\SQLtoLINQ\SQLtoLINQ\obj\Debug\SQLtoLINQ.Form1.resources
+C:\Users\Сергей\source\repos\SQLtoLINQ\SQLtoLINQ\obj\Debug\SQLtoLINQ.Properties.Resources.resources
+C:\Users\Сергей\source\repos\SQLtoLINQ\SQLtoLINQ\obj\Debug\SQLtoLINQ.csproj.GenerateResource.cache
+C:\Users\Сергей\source\repos\SQLtoLINQ\SQLtoLINQ\obj\Debug\SQLtoLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\SQLtoLINQ\SQLtoLINQ\obj\Debug\SQLtoLINQ.exe
+C:\Users\Сергей\source\repos\SQLtoLINQ\SQLtoLINQ\obj\Debug\SQLtoLINQ.pdb

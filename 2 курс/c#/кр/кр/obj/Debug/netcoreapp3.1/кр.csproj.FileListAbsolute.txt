@@ -1,0 +1,14 @@
+C:\Users\Сергей\source\repos\кр\кр\bin\Debug\netcoreapp3.1\кр.exe
+C:\Users\Сергей\source\repos\кр\кр\bin\Debug\netcoreapp3.1\кр.deps.json
+C:\Users\Сергей\source\repos\кр\кр\bin\Debug\netcoreapp3.1\кр.runtimeconfig.json
+C:\Users\Сергей\source\repos\кр\кр\bin\Debug\netcoreapp3.1\кр.runtimeconfig.dev.json
+C:\Users\Сергей\source\repos\кр\кр\bin\Debug\netcoreapp3.1\кр.dll
+C:\Users\Сергей\source\repos\кр\кр\bin\Debug\netcoreapp3.1\кр.pdb
+C:\Users\Сергей\source\repos\кр\кр\obj\Debug\netcoreapp3.1\кр.csproj.AssemblyReference.cache
+C:\Users\Сергей\source\repos\кр\кр\obj\Debug\netcoreapp3.1\кр.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\source\repos\кр\кр\obj\Debug\netcoreapp3.1\кр.AssemblyInfoInputs.cache
+C:\Users\Сергей\source\repos\кр\кр\obj\Debug\netcoreapp3.1\кр.AssemblyInfo.cs
+C:\Users\Сергей\source\repos\кр\кр\obj\Debug\netcoreapp3.1\кр.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\кр\кр\obj\Debug\netcoreapp3.1\кр.dll
+C:\Users\Сергей\source\repos\кр\кр\obj\Debug\netcoreapp3.1\кр.pdb
+C:\Users\Сергей\source\repos\кр\кр\obj\Debug\netcoreapp3.1\кр.genruntimeconfig.cache

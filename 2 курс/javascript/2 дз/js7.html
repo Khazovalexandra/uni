@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Задание 7</title>
+<meta charset="UTF-8"> 
+<script language="JavaScript">
+       function array() {
+        subj=new Array("математика", "физика", "химия", "информатика", "биология", "русский язык", "литература","английский язык","обществознание","экономика");  
+        m=new Array(); 
+        g=new Array();  
+        m=subj.slice(1,5);
+        g=subj.slice(5,10);
+        document.write("точные: "+m+"<br>");
+        document.write("гуманитарные: "+g+"<br>");
+       }
+    </script> 
+</head>
+<body>
+<input type="button" onclick="array()" value="вывести массивы"/>
+</body>
+</html>

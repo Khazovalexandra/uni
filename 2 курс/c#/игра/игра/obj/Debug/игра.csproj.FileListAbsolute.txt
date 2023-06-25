@@ -1,0 +1,10 @@
+C:\Users\Сергей\source\repos\игра\игра\obj\Debug\игра.csproj.AssemblyReference.cache
+C:\Users\Сергей\source\repos\игра\игра\obj\Debug\игра.Form1.resources
+C:\Users\Сергей\source\repos\игра\игра\obj\Debug\игра.Properties.Resources.resources
+C:\Users\Сергей\source\repos\игра\игра\obj\Debug\игра.csproj.GenerateResource.cache
+C:\Users\Сергей\source\repos\игра\игра\obj\Debug\игра.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\игра\игра\bin\Debug\игра.exe.config
+C:\Users\Сергей\source\repos\игра\игра\bin\Debug\игра.exe
+C:\Users\Сергей\source\repos\игра\игра\bin\Debug\игра.pdb
+C:\Users\Сергей\source\repos\игра\игра\obj\Debug\игра.exe
+C:\Users\Сергей\source\repos\игра\игра\obj\Debug\игра.pdb

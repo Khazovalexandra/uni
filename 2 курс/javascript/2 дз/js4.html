@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>js4</title>
+<meta charset="UTF-8">
+</head>
+<body>
+<script>
+var x, y, password, p;
+p=prompt("Введите пароль",'');
+ 
+password=9746;
+if (password==p)
+{
+x=parseInt(prompt("Введите значение х",''));
+y=parseInt(prompt("Введите значение у",''));
+if(x==y)
+{
+    alert("Введенные числа равны!")
+}
+else if(x<y)
+{
+alert("Максимальное число - y")
+}
+else {
+alert("Максимальное число - x")
+}
+}
+else alert("Пароль не верен, попробуйте снова");
+</script>
+</body>
+</html>

@@ -1,0 +1,10 @@
+C:\Users\Сергей\source\repos\диаграмма 2\диаграмма 2\bin\Debug\диаграмма 2.exe.config
+C:\Users\Сергей\source\repos\диаграмма 2\диаграмма 2\bin\Debug\диаграмма 2.exe
+C:\Users\Сергей\source\repos\диаграмма 2\диаграмма 2\bin\Debug\диаграмма 2.pdb
+C:\Users\Сергей\source\repos\диаграмма 2\диаграмма 2\obj\Debug\диаграмма 2.csproj.AssemblyReference.cache
+C:\Users\Сергей\source\repos\диаграмма 2\диаграмма 2\obj\Debug\диаграмма_2.Form1.resources
+C:\Users\Сергей\source\repos\диаграмма 2\диаграмма 2\obj\Debug\диаграмма_2.Properties.Resources.resources
+C:\Users\Сергей\source\repos\диаграмма 2\диаграмма 2\obj\Debug\диаграмма 2.csproj.GenerateResource.cache
+C:\Users\Сергей\source\repos\диаграмма 2\диаграмма 2\obj\Debug\диаграмма 2.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\диаграмма 2\диаграмма 2\obj\Debug\диаграмма 2.exe
+C:\Users\Сергей\source\repos\диаграмма 2\диаграмма 2\obj\Debug\диаграмма 2.pdb

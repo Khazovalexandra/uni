@@ -1,0 +1,14 @@
+C:\Users\Сергей\source\repos\перевод из 10 в 2 и наоборот\перевод из 10 в 2 и наоборот\bin\Debug\netcoreapp3.1\перевод из 10 в 2 и наоборот.exe
+C:\Users\Сергей\source\repos\перевод из 10 в 2 и наоборот\перевод из 10 в 2 и наоборот\bin\Debug\netcoreapp3.1\перевод из 10 в 2 и наоборот.deps.json
+C:\Users\Сергей\source\repos\перевод из 10 в 2 и наоборот\перевод из 10 в 2 и наоборот\bin\Debug\netcoreapp3.1\перевод из 10 в 2 и наоборот.runtimeconfig.json
+C:\Users\Сергей\source\repos\перевод из 10 в 2 и наоборот\перевод из 10 в 2 и наоборот\bin\Debug\netcoreapp3.1\перевод из 10 в 2 и наоборот.runtimeconfig.dev.json
+C:\Users\Сергей\source\repos\перевод из 10 в 2 и наоборот\перевод из 10 в 2 и наоборот\bin\Debug\netcoreapp3.1\перевод из 10 в 2 и наоборот.dll
+C:\Users\Сергей\source\repos\перевод из 10 в 2 и наоборот\перевод из 10 в 2 и наоборот\bin\Debug\netcoreapp3.1\перевод из 10 в 2 и наоборот.pdb
+C:\Users\Сергей\source\repos\перевод из 10 в 2 и наоборот\перевод из 10 в 2 и наоборот\obj\Debug\netcoreapp3.1\перевод из 10 в 2 и наоборот.csproj.AssemblyReference.cache
+C:\Users\Сергей\source\repos\перевод из 10 в 2 и наоборот\перевод из 10 в 2 и наоборот\obj\Debug\netcoreapp3.1\перевод из 10 в 2 и наоборот.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\source\repos\перевод из 10 в 2 и наоборот\перевод из 10 в 2 и наоборот\obj\Debug\netcoreapp3.1\перевод из 10 в 2 и наоборот.AssemblyInfoInputs.cache
+C:\Users\Сергей\source\repos\перевод из 10 в 2 и наоборот\перевод из 10 в 2 и наоборот\obj\Debug\netcoreapp3.1\перевод из 10 в 2 и наоборот.AssemblyInfo.cs
+C:\Users\Сергей\source\repos\перевод из 10 в 2 и наоборот\перевод из 10 в 2 и наоборот\obj\Debug\netcoreapp3.1\перевод из 10 в 2 и наоборот.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\перевод из 10 в 2 и наоборот\перевод из 10 в 2 и наоборот\obj\Debug\netcoreapp3.1\перевод из 10 в 2 и наоборот.dll
+C:\Users\Сергей\source\repos\перевод из 10 в 2 и наоборот\перевод из 10 в 2 и наоборот\obj\Debug\netcoreapp3.1\перевод из 10 в 2 и наоборот.pdb
+C:\Users\Сергей\source\repos\перевод из 10 в 2 и наоборот\перевод из 10 в 2 и наоборот\obj\Debug\netcoreapp3.1\перевод из 10 в 2 и наоборот.genruntimeconfig.cache

@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>Задание 13</title>
+<meta charset="UTF-8"> 
+<script language="JavaScript" type="text/JavaScript">
+    function MouseOver(imgName) {
+var img = document.getElementById(imgName);
+img.style['width'] = "550px";
+img.style['height'] = "410px";
+}
+function MouseOut(imgName) {
+var img = document.getElementById(imgName);
+img.style['width'] = "350px";
+img.style['height'] = "210px";
+}
+</script>
+</head>
+<body>
+<image id="1" src="1.jpg" onmouseover="MouseOver(this.id)" 
+onmouseout="MouseOut(this.id)"/>
+</body>
+</html>

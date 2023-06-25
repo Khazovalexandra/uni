@@ -1,0 +1,12 @@
+C:\Users\Сергей\source\repos\мессенджер\мессенджер\obj\Debug\мессенджер.csproj.AssemblyReference.cache
+C:\Users\Сергей\source\repos\мессенджер\мессенджер\obj\Debug\мессенджер.Form1.resources
+C:\Users\Сергей\source\repos\мессенджер\мессенджер\obj\Debug\мессенджер.Form2.resources
+C:\Users\Сергей\source\repos\мессенджер\мессенджер\obj\Debug\мессенджер.Form3.resources
+C:\Users\Сергей\source\repos\мессенджер\мессенджер\obj\Debug\мессенджер.Properties.Resources.resources
+C:\Users\Сергей\source\repos\мессенджер\мессенджер\obj\Debug\мессенджер.csproj.GenerateResource.cache
+C:\Users\Сергей\source\repos\мессенджер\мессенджер\obj\Debug\мессенджер.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\мессенджер\мессенджер\bin\Debug\мессенджер.exe.config
+C:\Users\Сергей\source\repos\мессенджер\мессенджер\bin\Debug\мессенджер.exe
+C:\Users\Сергей\source\repos\мессенджер\мессенджер\bin\Debug\мессенджер.pdb
+C:\Users\Сергей\source\repos\мессенджер\мессенджер\obj\Debug\мессенджер.exe
+C:\Users\Сергей\source\repos\мессенджер\мессенджер\obj\Debug\мессенджер.pdb

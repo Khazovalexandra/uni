@@ -1,0 +1,69 @@
+<HTML>
+    <HEAD>
+    <TITLE>4</TITLE>
+    <script type="text/javascript">
+        /* Значение этой цифры определяет скорость печати.
+         Чем меньше цифра, тем выше скорость и наоборот. */
+        var speed = 40;
+        /* Эта цифра указывает задержку перехода к
+         другой строке в миллисекундах. Чем больше
+         цифра, тем дольше будет отображаться строка
+         до перехода к другой строке */
+        var pause = 1300;
+        var timerID = null;
+        var wireRunning = false;
+        var cc = [];
+        cc[0] = "Хорошая форма для экономии места!";
+        cc[1] = "Здесь можно расположить любую информацию.";
+        cc[2] = "Ограничений для информации нет!";
+        cc[3] = "Сколько напишите, столько и будет отображено!";
+        cc[4] = "У вас всё получится!";
+        cc[5] = "Пишите!";
+        cc[6] = "Наслаждайтесь!";
+        cc[7] = "Сейчас будет пустая строка.";
+        cc[8] = " ";
+        cc[9] = "С наилучшими пожеланиями!";
+        cc[10] = "Хорошего дня!";
+        cc[11] = "А теперь повтор";
+        var currentMessage = 0;
+        var offset = 0;
+        function stopWire() { if (wireRunning)
+            clearTimeout(timerID);
+            wireRunning = false
+        }
+        function startWire() {
+            stopWire();
+            showWire() }
+        function showWire() {
+            var text = cc[currentMessage];
+            if (offset < text.length) { if (text.charAt(offset) == " ")
+                offset++;
+                var partialMessage = text.substring(0, offset + 1);
+                document.wireForm.wireField.value = partialMessage;
+                offset++;
+                timerID = setTimeout("showWire()", speed);
+                wireRunning = true }
+            else {
+                offset = 0;
+                currentMessage++;
+                if (currentMessage == cc.length)
+                    currentMessage = 0;
+                timerID = setTimeout("showWire()", pause);
+                wireRunning = true
+            }
+        }
+    </script>
+    <!-- Таблица стилей CSS -->
+    <style>
+        /* Размер, цвет и гарнитура шрифта в форме.
+         Толщина и цвет бордюра окантовки.
+         Отступ слева внутрь формы. */
+        .it { font-size:20px; color:#00d9ff;border:#9780ff 1px solid; padding:10px;margin: 10px }
+    </style>
+    <form name="wireForm">
+        <input class="it" name="wireField" value=" Здесь надо кликнуть мышкой." size="45" onfocus="if (!wireRunning) { startWire() }" type="text">
+    </form>
+</HEAD>    
+<BODY> 
+</BODY> 
+</HTML>

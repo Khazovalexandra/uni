@@ -1,0 +1,14 @@
+C:\Users\Сергей\source\repos\справочник\справочник\bin\Debug\netcoreapp3.1\справочник.exe
+C:\Users\Сергей\source\repos\справочник\справочник\bin\Debug\netcoreapp3.1\справочник.deps.json
+C:\Users\Сергей\source\repos\справочник\справочник\bin\Debug\netcoreapp3.1\справочник.runtimeconfig.json
+C:\Users\Сергей\source\repos\справочник\справочник\bin\Debug\netcoreapp3.1\справочник.runtimeconfig.dev.json
+C:\Users\Сергей\source\repos\справочник\справочник\bin\Debug\netcoreapp3.1\справочник.dll
+C:\Users\Сергей\source\repos\справочник\справочник\bin\Debug\netcoreapp3.1\справочник.pdb
+C:\Users\Сергей\source\repos\справочник\справочник\obj\Debug\netcoreapp3.1\справочник.csproj.AssemblyReference.cache
+C:\Users\Сергей\source\repos\справочник\справочник\obj\Debug\netcoreapp3.1\справочник.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\source\repos\справочник\справочник\obj\Debug\netcoreapp3.1\справочник.AssemblyInfoInputs.cache
+C:\Users\Сергей\source\repos\справочник\справочник\obj\Debug\netcoreapp3.1\справочник.AssemblyInfo.cs
+C:\Users\Сергей\source\repos\справочник\справочник\obj\Debug\netcoreapp3.1\справочник.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\справочник\справочник\obj\Debug\netcoreapp3.1\справочник.dll
+C:\Users\Сергей\source\repos\справочник\справочник\obj\Debug\netcoreapp3.1\справочник.pdb
+C:\Users\Сергей\source\repos\справочник\справочник\obj\Debug\netcoreapp3.1\справочник.genruntimeconfig.cache

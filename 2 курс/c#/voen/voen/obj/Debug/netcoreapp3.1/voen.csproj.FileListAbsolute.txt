@@ -1,0 +1,14 @@
+C:\Users\Сергей\source\repos\voen\voen\bin\Debug\netcoreapp3.1\voen.exe
+C:\Users\Сергей\source\repos\voen\voen\bin\Debug\netcoreapp3.1\voen.deps.json
+C:\Users\Сергей\source\repos\voen\voen\bin\Debug\netcoreapp3.1\voen.runtimeconfig.json
+C:\Users\Сергей\source\repos\voen\voen\bin\Debug\netcoreapp3.1\voen.runtimeconfig.dev.json
+C:\Users\Сергей\source\repos\voen\voen\bin\Debug\netcoreapp3.1\voen.dll
+C:\Users\Сергей\source\repos\voen\voen\bin\Debug\netcoreapp3.1\voen.pdb
+C:\Users\Сергей\source\repos\voen\voen\obj\Debug\netcoreapp3.1\voen.csproj.AssemblyReference.cache
+C:\Users\Сергей\source\repos\voen\voen\obj\Debug\netcoreapp3.1\voen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\source\repos\voen\voen\obj\Debug\netcoreapp3.1\voen.AssemblyInfoInputs.cache
+C:\Users\Сергей\source\repos\voen\voen\obj\Debug\netcoreapp3.1\voen.AssemblyInfo.cs
+C:\Users\Сергей\source\repos\voen\voen\obj\Debug\netcoreapp3.1\voen.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\voen\voen\obj\Debug\netcoreapp3.1\voen.dll
+C:\Users\Сергей\source\repos\voen\voen\obj\Debug\netcoreapp3.1\voen.pdb
+C:\Users\Сергей\source\repos\voen\voen\obj\Debug\netcoreapp3.1\voen.genruntimeconfig.cache

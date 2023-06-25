@@ -1,0 +1,14 @@
+C:\Users\Сергей\source\repos\квадратное\квадратное\obj\Debug\netcoreapp3.1\квадратное.csproj.AssemblyReference.cache
+C:\Users\Сергей\source\repos\квадратное\квадратное\obj\Debug\netcoreapp3.1\квадратное.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\source\repos\квадратное\квадратное\obj\Debug\netcoreapp3.1\квадратное.AssemblyInfoInputs.cache
+C:\Users\Сергей\source\repos\квадратное\квадратное\obj\Debug\netcoreapp3.1\квадратное.AssemblyInfo.cs
+C:\Users\Сергей\source\repos\квадратное\квадратное\obj\Debug\netcoreapp3.1\квадратное.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\квадратное\квадратное\bin\Debug\netcoreapp3.1\квадратное.exe
+C:\Users\Сергей\source\repos\квадратное\квадратное\bin\Debug\netcoreapp3.1\квадратное.deps.json
+C:\Users\Сергей\source\repos\квадратное\квадратное\bin\Debug\netcoreapp3.1\квадратное.runtimeconfig.json
+C:\Users\Сергей\source\repos\квадратное\квадратное\bin\Debug\netcoreapp3.1\квадратное.runtimeconfig.dev.json
+C:\Users\Сергей\source\repos\квадратное\квадратное\bin\Debug\netcoreapp3.1\квадратное.dll
+C:\Users\Сергей\source\repos\квадратное\квадратное\bin\Debug\netcoreapp3.1\квадратное.pdb
+C:\Users\Сергей\source\repos\квадратное\квадратное\obj\Debug\netcoreapp3.1\квадратное.dll
+C:\Users\Сергей\source\repos\квадратное\квадратное\obj\Debug\netcoreapp3.1\квадратное.pdb
+C:\Users\Сергей\source\repos\квадратное\квадратное\obj\Debug\netcoreapp3.1\квадратное.genruntimeconfig.cache

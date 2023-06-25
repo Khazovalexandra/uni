@@ -1,0 +1,28 @@
+{
+    // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
+    // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
+    // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CreateFile",
+            "request": "launch",
+            "mainClass": "CreateFile",
+            "projectName": "OpenSouce_a6b603d0"
+        },
+        {
+            "type": "java",
+            "name": "DataInputOutput",
+            "request": "launch",
+            "mainClass": "DataInputOutput",
+            "projectName": "OpenSouce_a6b603d0"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}

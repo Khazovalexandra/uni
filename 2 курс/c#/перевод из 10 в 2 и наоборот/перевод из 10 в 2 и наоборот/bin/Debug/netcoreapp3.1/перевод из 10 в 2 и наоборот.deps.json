@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "перевод из 10 в 2 и наоборот/1.0.0": {
+        "runtime": {
+          "перевод из 10 в 2 и наоборот.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "перевод из 10 в 2 и наоборот/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
