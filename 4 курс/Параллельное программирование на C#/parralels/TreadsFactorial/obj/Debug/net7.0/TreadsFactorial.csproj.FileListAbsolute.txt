@@ -1,0 +1,14 @@
+c:\Users\admin\Documents\parralels\TreadsFactorial\obj\Debug\net7.0\TreadsFactorial.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\admin\Documents\parralels\TreadsFactorial\obj\Debug\net7.0\TreadsFactorial.AssemblyInfoInputs.cache
+c:\Users\admin\Documents\parralels\TreadsFactorial\obj\Debug\net7.0\TreadsFactorial.AssemblyInfo.cs
+c:\Users\admin\Documents\parralels\TreadsFactorial\obj\Debug\net7.0\TreadsFactorial.csproj.CoreCompileInputs.cache
+c:\Users\admin\Documents\parralels\TreadsFactorial\bin\Debug\net7.0\TreadsFactorial.exe
+c:\Users\admin\Documents\parralels\TreadsFactorial\bin\Debug\net7.0\TreadsFactorial.deps.json
+c:\Users\admin\Documents\parralels\TreadsFactorial\bin\Debug\net7.0\TreadsFactorial.runtimeconfig.json
+c:\Users\admin\Documents\parralels\TreadsFactorial\bin\Debug\net7.0\TreadsFactorial.dll
+c:\Users\admin\Documents\parralels\TreadsFactorial\bin\Debug\net7.0\TreadsFactorial.pdb
+c:\Users\admin\Documents\parralels\TreadsFactorial\obj\Debug\net7.0\TreadsFactorial.dll
+c:\Users\admin\Documents\parralels\TreadsFactorial\obj\Debug\net7.0\refint\TreadsFactorial.dll
+c:\Users\admin\Documents\parralels\TreadsFactorial\obj\Debug\net7.0\TreadsFactorial.pdb
+c:\Users\admin\Documents\parralels\TreadsFactorial\obj\Debug\net7.0\TreadsFactorial.genruntimeconfig.cache
+c:\Users\admin\Documents\parralels\TreadsFactorial\obj\Debug\net7.0\ref\TreadsFactorial.dll

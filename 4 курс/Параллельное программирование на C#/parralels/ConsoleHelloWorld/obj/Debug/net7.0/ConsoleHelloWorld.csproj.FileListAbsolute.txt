@@ -1,0 +1,14 @@
+c:\Users\admin\Documents\parralels\ConsoleHelloWorld\bin\Debug\net7.0\ConsoleHelloWorld.exe
+c:\Users\admin\Documents\parralels\ConsoleHelloWorld\bin\Debug\net7.0\ConsoleHelloWorld.deps.json
+c:\Users\admin\Documents\parralels\ConsoleHelloWorld\bin\Debug\net7.0\ConsoleHelloWorld.runtimeconfig.json
+c:\Users\admin\Documents\parralels\ConsoleHelloWorld\bin\Debug\net7.0\ConsoleHelloWorld.dll
+c:\Users\admin\Documents\parralels\ConsoleHelloWorld\bin\Debug\net7.0\ConsoleHelloWorld.pdb
+c:\Users\admin\Documents\parralels\ConsoleHelloWorld\obj\Debug\net7.0\ConsoleHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\admin\Documents\parralels\ConsoleHelloWorld\obj\Debug\net7.0\ConsoleHelloWorld.AssemblyInfoInputs.cache
+c:\Users\admin\Documents\parralels\ConsoleHelloWorld\obj\Debug\net7.0\ConsoleHelloWorld.AssemblyInfo.cs
+c:\Users\admin\Documents\parralels\ConsoleHelloWorld\obj\Debug\net7.0\ConsoleHelloWorld.csproj.CoreCompileInputs.cache
+c:\Users\admin\Documents\parralels\ConsoleHelloWorld\obj\Debug\net7.0\ConsoleHelloWorld.dll
+c:\Users\admin\Documents\parralels\ConsoleHelloWorld\obj\Debug\net7.0\refint\ConsoleHelloWorld.dll
+c:\Users\admin\Documents\parralels\ConsoleHelloWorld\obj\Debug\net7.0\ConsoleHelloWorld.pdb
+c:\Users\admin\Documents\parralels\ConsoleHelloWorld\obj\Debug\net7.0\ConsoleHelloWorld.genruntimeconfig.cache
+c:\Users\admin\Documents\parralels\ConsoleHelloWorld\obj\Debug\net7.0\ref\ConsoleHelloWorld.dll

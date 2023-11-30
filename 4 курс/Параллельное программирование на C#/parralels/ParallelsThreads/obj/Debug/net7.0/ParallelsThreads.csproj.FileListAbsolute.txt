@@ -1,0 +1,14 @@
+c:\Users\admin\Documents\parralels\ParallelsThreads\bin\Debug\net7.0\ParallelsThreads.exe
+c:\Users\admin\Documents\parralels\ParallelsThreads\bin\Debug\net7.0\ParallelsThreads.deps.json
+c:\Users\admin\Documents\parralels\ParallelsThreads\bin\Debug\net7.0\ParallelsThreads.runtimeconfig.json
+c:\Users\admin\Documents\parralels\ParallelsThreads\bin\Debug\net7.0\ParallelsThreads.dll
+c:\Users\admin\Documents\parralels\ParallelsThreads\bin\Debug\net7.0\ParallelsThreads.pdb
+c:\Users\admin\Documents\parralels\ParallelsThreads\obj\Debug\net7.0\ParallelsThreads.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\admin\Documents\parralels\ParallelsThreads\obj\Debug\net7.0\ParallelsThreads.AssemblyInfoInputs.cache
+c:\Users\admin\Documents\parralels\ParallelsThreads\obj\Debug\net7.0\ParallelsThreads.AssemblyInfo.cs
+c:\Users\admin\Documents\parralels\ParallelsThreads\obj\Debug\net7.0\ParallelsThreads.csproj.CoreCompileInputs.cache
+c:\Users\admin\Documents\parralels\ParallelsThreads\obj\Debug\net7.0\ParallelsThreads.dll
+c:\Users\admin\Documents\parralels\ParallelsThreads\obj\Debug\net7.0\refint\ParallelsThreads.dll
+c:\Users\admin\Documents\parralels\ParallelsThreads\obj\Debug\net7.0\ParallelsThreads.pdb
+c:\Users\admin\Documents\parralels\ParallelsThreads\obj\Debug\net7.0\ParallelsThreads.genruntimeconfig.cache
+c:\Users\admin\Documents\parralels\ParallelsThreads\obj\Debug\net7.0\ref\ParallelsThreads.dll
