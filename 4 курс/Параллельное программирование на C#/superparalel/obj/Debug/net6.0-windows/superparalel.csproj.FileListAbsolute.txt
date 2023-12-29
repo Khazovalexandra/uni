@@ -1,0 +1,37 @@
+D:\79200\Documents\Visual Studio 2022\superparalel\bin\Debug\net6.0-windows\superparalel.exe
+D:\79200\Documents\Visual Studio 2022\superparalel\bin\Debug\net6.0-windows\superparalel.deps.json
+D:\79200\Documents\Visual Studio 2022\superparalel\bin\Debug\net6.0-windows\superparalel.runtimeconfig.json
+D:\79200\Documents\Visual Studio 2022\superparalel\bin\Debug\net6.0-windows\superparalel.dll
+D:\79200\Documents\Visual Studio 2022\superparalel\bin\Debug\net6.0-windows\superparalel.pdb
+D:\79200\Documents\Visual Studio 2022\superparalel\obj\Debug\net6.0-windows\superparalel.Form1.resources
+D:\79200\Documents\Visual Studio 2022\superparalel\obj\Debug\net6.0-windows\superparalel.csproj.GenerateResource.cache
+D:\79200\Documents\Visual Studio 2022\superparalel\obj\Debug\net6.0-windows\superparalel.GeneratedMSBuildEditorConfig.editorconfig
+D:\79200\Documents\Visual Studio 2022\superparalel\obj\Debug\net6.0-windows\superparalel.AssemblyInfoInputs.cache
+D:\79200\Documents\Visual Studio 2022\superparalel\obj\Debug\net6.0-windows\superparalel.AssemblyInfo.cs
+D:\79200\Documents\Visual Studio 2022\superparalel\obj\Debug\net6.0-windows\superparalel.csproj.CoreCompileInputs.cache
+D:\79200\Documents\Visual Studio 2022\superparalel\obj\Debug\net6.0-windows\superparalel.dll
+D:\79200\Documents\Visual Studio 2022\superparalel\obj\Debug\net6.0-windows\refint\superparalel.dll
+D:\79200\Documents\Visual Studio 2022\superparalel\obj\Debug\net6.0-windows\superparalel.pdb
+D:\79200\Documents\Visual Studio 2022\superparalel\obj\Debug\net6.0-windows\superparalel.genruntimeconfig.cache
+D:\79200\Documents\Visual Studio 2022\superparalel\obj\Debug\net6.0-windows\ref\superparalel.dll
+D:\79200\Documents\Visual Studio 2022\superparalel\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\79200\Documents\Visual Studio 2022\superparalel\obj\Debug\net6.0-windows\superparalel.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\майн\ННГАСУ\superparalel_zip\superparalel\obj\Debug\net6.0-windows\superparalel.dll
+C:\Users\admin\Desktop\майн\ННГАСУ\superparalel_zip\superparalel\obj\Debug\net6.0-windows\refint\superparalel.dll
+C:\Users\admin\Desktop\майн\ННГАСУ\superparalel_zip\superparalel\obj\Debug\net6.0-windows\superparalel.pdb
+C:\Users\admin\Desktop\майн\ННГАСУ\superparalel_zip\superparalel\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\admin\Desktop\майн\ННГАСУ\superparalel_zip\superparalel\obj\Debug\net6.0-windows\superparalel.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\майн\ННГАСУ\superparalel_zip\superparalel\obj\Debug\net6.0-windows\superparalel.Form1.resources
+C:\Users\admin\Desktop\майн\ННГАСУ\superparalel_zip\superparalel\obj\Debug\net6.0-windows\superparalel.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\майн\ННГАСУ\superparalel_zip\superparalel\obj\Debug\net6.0-windows\superparalel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\майн\ННГАСУ\superparalel_zip\superparalel\obj\Debug\net6.0-windows\superparalel.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\майн\ННГАСУ\superparalel_zip\superparalel\obj\Debug\net6.0-windows\superparalel.AssemblyInfo.cs
+C:\Users\admin\Desktop\майн\ННГАСУ\superparalel_zip\superparalel\obj\Debug\net6.0-windows\superparalel.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\майн\ННГАСУ\superparalel_zip\superparalel\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Core.dll
+C:\Users\admin\Desktop\майн\ННГАСУ\superparalel_zip\superparalel\bin\Debug\net6.0-windows\superparalel.exe
+C:\Users\admin\Desktop\майн\ННГАСУ\superparalel_zip\superparalel\bin\Debug\net6.0-windows\superparalel.deps.json
+C:\Users\admin\Desktop\майн\ННГАСУ\superparalel_zip\superparalel\bin\Debug\net6.0-windows\superparalel.runtimeconfig.json
+C:\Users\admin\Desktop\майн\ННГАСУ\superparalel_zip\superparalel\bin\Debug\net6.0-windows\superparalel.dll
+C:\Users\admin\Desktop\майн\ННГАСУ\superparalel_zip\superparalel\bin\Debug\net6.0-windows\superparalel.pdb
+C:\Users\admin\Desktop\майн\ННГАСУ\superparalel_zip\superparalel\obj\Debug\net6.0-windows\superparalel.genruntimeconfig.cache
+C:\Users\admin\Desktop\майн\ННГАСУ\superparalel_zip\superparalel\obj\Debug\net6.0-windows\ref\superparalel.dll

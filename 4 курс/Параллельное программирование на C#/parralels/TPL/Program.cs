@@ -8,11 +8,15 @@ namespace PI
 {
     class Program
     {
-        static CountdownEvent countdownEvent;
         static double pi = 0;
-        static void ThreadFunc(object iThread) //для Task void->object
+        static Array Copy(Array arr)
         {
-            object locker = new object();
+            object[] copy = new object[arr.Length];
+            arr.CopyTo(copy, 0);
+            return copy;
+        }
+        static double ThreadFunc(object iThread) //для Task void->object
+        {
             double x = 0, Fx = 0, s = 0;
             int left = (int)(((object[])iThread)[0]);
             int right = (int)(((object[])iThread)[1]);
@@ -26,12 +30,7 @@ namespace PI
                 s = s + Fx;
             }
             Console.WriteLine("ls=" + s + " поток:" + Thread.CurrentThread.ManagedThreadId);
-            lock (locker)
-            {
-                pi += s;
-            }
-            countdownEvent.Signal();
-            //return s;
+            return s;
         }
         static double one_potok(object writer)
         {
@@ -56,17 +55,19 @@ namespace PI
             Stopwatch stopWatch = new Stopwatch();
             stopWatch.Start();
             //Parallel.ForEach<double>(new List<double>() {Convert.ToDouble(writer)}, one_potok);
-            Task<double> tsk = Task<double>.Factory.StartNew(one_potok, Convert.ToDouble(writer));
+            Task<double> tsk = Task<double>.Factory.StartNew(one_potok, Convert.ToDouble(writer));//Task.Run(()=>one_potok(Convert.ToDouble(writer)));//
+            double res = tsk.Result;
             stopWatch.Stop();
             TimeSpan ts = stopWatch.Elapsed;
             Console.WriteLine("_____________________________");
-            Console.WriteLine("Число п = " + tsk.Result);
+            Console.WriteLine("Число п = " + res);
             Console.WriteLine("Время однопоточного = " + + stopWatch.ElapsedMilliseconds + '('+ts+')');
             Console.WriteLine("_____________________________");
             tsk.Dispose();
             int step = writer / x;
             object[] arr = new object[3];
-            countdownEvent = new CountdownEvent(x);
+            stopWatch.Restart();
+            Task<double>[] tsks1 = new Task<double>[x];
             for (int i = 0; i < x; i++)
             {
                 if (i == x - 1)
@@ -80,18 +81,15 @@ namespace PI
                     arr[1] = step * (i + 1);
                 }
                 arr[2] = writer;
-                stopWatch.Restart();
-                Parallel.ForEach<object>(new List<object>() { arr }, ThreadFunc);
-                //ThreadPool.QueueUserWorkItem(ThreadFunc, Copy(arr));   
+                //Parallel.ForEach<object>(new List<object>() { arr }, ThreadFunc);  
+                var copy = Copy(arr);
+                tsks1[i] = Task.Run(()=>ThreadFunc(copy));//Task.Factory.StartNew(ThreadFunc, copy);//
             }
-                //Task[] tsks1 = new Task[x];
-                /*for (int j = 0; j<tsks1.Length; j++) 
-                {
-                    tsks1[j] = Task.Factory.StartNew(ThreadFunc, Copy(arr));
-                    //Console.WriteLine("ls=" + tsks1[j].Result + " поток:" + Thread.CurrentThread.ManagedThreadId);
-                }*/
-                //Task<object> tsk1 = Task<object>.Factory.StartNew();
-            countdownEvent.Wait();
+            Task.WaitAll(tsks1);
+            foreach (var task in tsks1)
+            {
+                pi = pi+task.Result;
+            }
             double interval = 1.0 / Convert.ToDouble(writer);
             pi = pi * interval;
             stopWatch.Stop();

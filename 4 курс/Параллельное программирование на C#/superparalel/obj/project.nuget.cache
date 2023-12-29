@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nQReAN1Y8iVQwG113Matcx/8f9W7yw/Xnfa5I3LIQMin5v+l9rEKSWJ4MCGCg0F7/3PFo3dng84Suru/Iwfl+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\майн\\ННГАСУ\\superparalel_zip\\superparalel\\superparalel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
